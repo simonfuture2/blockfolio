@@ -41,8 +41,8 @@ const Projects = () => {
                     <p>FutureROYALz wallet is a Dapp that uses MetaMask/Wallet Connect. Dapp Wallet will allow to connect to wallet, check balance, and send 1 wei to an address. 
                     </p>
 
-                    <a href="https://www.metaplex.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                    <a href="https://walletconnect.com/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/simonfuture2/futureWallet/tree/main" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -51,7 +51,7 @@ const Projects = () => {
                     <p>Practice with your new decentralized identity, create, update and read your profile. 
                     </p>
 
-                    <a href="https://github.com/" target="_blank" className="button">Site</a>
+                    <a href="https://decentralized-id.com/blockchain/handshake/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/simonfuture2/decentralized-identity-example" target="_blank" className="button">Code</a>
                 </div>
 
