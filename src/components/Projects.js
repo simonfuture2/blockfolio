@@ -3,6 +3,7 @@ import uniswap from '../assets/uniswap.png';
 import compound from '../assets/compound.png';
 import aave from '../assets/aave.png';
 import portfolio from '../assets/portfolio.png';
+import wallet from '../assets/wallet.png'
 
 const Projects = () => {
     return (
@@ -28,6 +29,16 @@ const Projects = () => {
                     <img src={aave} alt="ROYALz NFT Page" />
                     <p>FutureROYALz is a NFT project worked on to represent the knowledge gained from metaplex. the NFT marketplace futureplex.store was used
                     to show auctions, assign creator roles to upload, and sell your NFT. 
+                    </p>
+
+                    <a href="https://www.metaplex.com/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                </div>
+
+                <div className="projects__card">
+                    <h3>ROYALz</h3>
+                    <img src={wallet} alt="FutureROYALz Wallet" />
+                    <p>FutureROYALz wallet is a Dapp that uses MetaMask/Wallet Connect. Dapp Wallet will allow to connect to wallet, check balance, and send 1 wei to an address. 
                     </p>
 
                     <a href="https://www.metaplex.com/" target="_blank" className="button">Site</a>
