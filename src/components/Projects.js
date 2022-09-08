@@ -4,6 +4,7 @@ import compound from '../assets/compound.png';
 import aave from '../assets/aave.png';
 import portfolio from '../assets/portfolio.png';
 import wallet from '../assets/wallet.png'
+import gitcoin from '../assets/gitcoin.png'
 
 const Projects = () => {
     return (
@@ -33,6 +34,18 @@ const Projects = () => {
 
                     <a href="https://www.metaplex.com/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                </div>
+
+                <div className="projects__card">
+                    <h3>Gitcoin Profile & Quests</h3>
+                    <img src={gitcoin} alt="Gitcoin Advocate" />
+                    <p>Being part of the Gitcoin community helped me to learn more about the importance of governance and supporting other projects. Our world is filled with 
+                        so much talent, but many people may lack the leadership drive, but having a resource and community like Gitcoin, it can really help to improve your confidence
+                        recognition, and gain capital support for project ideas.
+                    </p>
+
+                    <a href="https://gitcoin.co/quests" target="_blank" className="button">Site</a>
+                    <a href="https://gitcoin.co/simonfuture2/portfolio" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
