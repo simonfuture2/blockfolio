@@ -1,4 +1,4 @@
-# Portfolio Template
+# Blockfolio
 
 ## Technology Stack & Tools
 
@@ -10,7 +10,7 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd portfolio_template
+$ cd blockfolio
 $ npm install 
 ```
 
