@@ -36,7 +36,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>ROYALz</h3>
+                    <h3>FutureWALLET</h3>
                     <img src={wallet} alt="FutureROYALz Wallet" />
                     <p>FutureROYALz wallet is a Dapp that uses MetaMask/Wallet Connect. Dapp Wallet will allow to connect to wallet, check balance, and send 1 wei to an address. 
                     </p>
