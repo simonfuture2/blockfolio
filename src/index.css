@@ -90,12 +90,14 @@ code {
 .about h2 {
   font-size: 42px;
   margin: 25px auto;
+  color: white;
 }
 
 .about p {
   font-size: 18px;
   line-height: 130%;
   max-width: 75ch;
+  color: white;
 }
 
 /* ------------------------------------------------------ */
@@ -104,6 +106,7 @@ code {
 .projects h2 {
   font-size: 42px;
   margin: 25px auto;
+  color: white;
 }
 
 .projects p:hover {
@@ -165,16 +168,19 @@ code {
 .experience h2 {
   font-size: 42px;
   margin: 25px auto;
+  color: white;
 }
 
 .experience ul {
   margin: 0 0 10px 50px;
+  color: white;
 }
 
 .experience li {
   font-size: 18px;
   line-height: 130%;
   margin: 15px auto;
+  color: white;
 }
 
 /* ------------------------------------------------------ */
@@ -183,6 +189,7 @@ code {
 .social h2 {
   font-size: 42px;
   margin: 25px auto;
+  color: white;
 }
 
 .social .button {
@@ -194,6 +201,7 @@ code {
 .footer {
   margin: 0 auto;
   text-align: center;
+  color: white;
 }
 
 /* ------------------------------------------------------ */
