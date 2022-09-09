@@ -17,6 +17,8 @@ const About = () => {
               All of this go doesn’t happen without some downtime, that’s where I will enjoy the gym, dancing, meditation, 
               and improving my chi. Being able to shut down and focus on Qigong Movements is like restarting your PC for 
               new updates to be pushed and installed.
+              
+              <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=137541&token=3776278377&h=5042" height="600" width="800" frameborder="0"></iframe>
             </p>
 
             <p>
