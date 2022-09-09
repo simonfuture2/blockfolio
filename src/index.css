@@ -201,7 +201,7 @@ code {
 .button {
   display: inline-block;
 
-  background: #12BDF3;
+  background:   #00FF00;
 
   padding: 15px 50px;
 
@@ -219,6 +219,6 @@ code {
 }
 
 .button:hover {
-  background: #0088BB;
-  color: #FFFFFF;
+  background:   #3CB371;
+  color: #00FF00;
 }
