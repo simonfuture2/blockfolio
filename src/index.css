@@ -106,10 +106,12 @@ code {
   margin: 25px auto;
 }
 
-.projects p {
+.projects p:hover {
   font-size: 18px;
   line-height: 130%;
   max-width: 50ch;
+  filter: blur(0);
+  transition:  0.5s ease-in-out;
 }
 
 .projects__cards {
@@ -120,9 +122,14 @@ code {
   gap: 20px;
 }
 
+.projects__card:hover {
+  transform: scale(1.2, 1.2);
+  transition:  0.5s ease-in-out;
+}
+
 .projects__card {
   max-width: 350px;
-
+  background: #fff;
   padding: 20px;
 
   border: 1px solid #0088BB;
