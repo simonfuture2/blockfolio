@@ -77,6 +77,16 @@ const Projects = () => {
                     <a href="https://docs.ethers.io/v5/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/simonfuture2/ethers_examples" target="_blank" className="button">Code</a>
                 </div>
+
+                <div className="projects__card">
+                    <h3>FutureBEAT: Algorand</h3>
+                    <img src={portfolio} alt="FutureBEAT: Algorand" />
+                    <p>Learn Algorand together. This project goes over the step-by-step instructions on understanding and 
+                        practicing example Dapps with the Algorand blockchain.
+                    </p>
+                    <a href="https://algoexplorer.io/top-statistics" target="_blank" className="button">AlgoChain Stats</a>
+                    <a href="https://github.com/simonfuture2/futurebeat-algorand" target="_blank" className="button">Code</a>
+                </div>
             </div>
         </section>
     );
