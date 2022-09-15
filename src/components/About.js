@@ -19,6 +19,7 @@ const About = () => {
               new updates to be pushed and installed.
               
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=137541&token=3776278377&h=5042" height="600" width="800" frameborder="0"></iframe>
+              <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=227952&token=3170511174&type=FP&h=7607" height="600" width="800" frameborder="0"></iframe>
             </p>
 
             <p>
