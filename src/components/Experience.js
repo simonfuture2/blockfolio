@@ -39,7 +39,7 @@ const Experience = () => {
                     </ul>
                 </li>
                  <li>
-                    <i>PSB Advanced Technology</i> - <strong>Website Development</strong>, 2010-2016
+                    <i>PSB Advanced Technology</i> - <strong>Website Development/IT Specialist</strong>, 2010-2016
                     <ul>
                         <li>HTML &amp; HTML5 website development</li>
                         <li>Requirements gathering and communicated with stakeholders on bi-weekly basis</li>
@@ -48,12 +48,24 @@ const Experience = () => {
                     </ul>
                 </li>
                   <li>
-                    <i>PSB Advanced Technology</i> - <strong>Blockchain Advocate & Freelancer</strong>, 2016-2022
+                    <i>PSB Advanced Technology</i> - <strong>Blockchain Advocate & Freelancer</strong>, 2016-present
                     <ul>
                         <li>solidity backend development research</li>
                         <li>using the Helium blockchain, completed the web3 IoT Project completion; decentralized wireless network </li>
                         <li>researched high volume websites for creative perspective</li>
                         <li>Crypto Mining using ASICs, GPUs and USB sticks</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>EYL University - Earn Your Leisure</i> - <strong>Vice President of the Crypto Club</strong>, 2022-present
+                    <ul>
+                        <li>present on blockchain topics</li>
+                        <li>create and lead student workshops; smart contracts, NFT marketplaces, Mining, Yield Farming, Crypto Security</li>
+                        <li>researched high volume protocols for data analysis</li>
+                        <li>coordinate and communicate with team, using various applications</li>
+                        <li>research current market trends and web3 upgrades</li>
+                        <li>attend executive meetings to discuss preparations for administrative task.</li>
+                        <li>community outreach and onboarding demos</li>
                     </ul>
                 </li>
             </ul>
