@@ -1,5 +1,7 @@
 // Import Components
 import Header from './components/Header';
+import Slogan from './components/Slogan';
+import Alias from './components/Alias';
 import About from './components/About';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
@@ -10,6 +12,8 @@ function App() {
 	return (
 		<div className="App">
 			<Header />
+			<Alias />
+			<Slogan />
 			<Projects />
 			<About />
 			<Experience />
