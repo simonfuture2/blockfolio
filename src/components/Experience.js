@@ -30,7 +30,7 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>NFT Social Media Manager</i> - <strong>Davincij15 NFT Davitar</strong>, 2019-2022
+                    <i>NFT Social Media Manager</i> - <strong>Davincij15 NFT Davitar</strong>,
                     <ul>
                         <li>Discord Chat creation and monitor</li>
                         <li>write and post Daily Announcements</li>
@@ -39,7 +39,7 @@ const Experience = () => {
                     </ul>
                 </li>
                  <li>
-                    <i>PSB Advanced Technology</i> - <strong>Website Development/IT Specialist</strong>, 2010-2016
+                    <i>PSB Advanced Technology</i> - <strong>Website Development/IT Specialist</strong>,
                     <ul>
                         <li>HTML &amp; HTML5 website development</li>
                         <li>Requirements gathering and communicated with stakeholders on bi-weekly basis</li>
@@ -48,7 +48,7 @@ const Experience = () => {
                     </ul>
                 </li>
                   <li>
-                    <i>PSB Advanced Technology</i> - <strong>Blockchain Advocate & Freelancer</strong>, 2016-present
+                    <i>PSB Advanced Technology</i> - <strong>Blockchain Advocate & Freelancer</strong>,
                     <ul>
                         <li>solidity backend development research</li>
                         <li>using the Helium blockchain, completed the web3 IoT Project completion; decentralized wireless network </li>
