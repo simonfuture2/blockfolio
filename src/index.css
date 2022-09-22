@@ -78,12 +78,11 @@ code {
 /* ------------------------------------------------------ */
 /* -- Slogan -- */
 
-.slogan__content: hover {
+.slogan__content img: hover {
   transform: scale(1.2, 1.2);
   transition:  0.5s ease-in-out;
   width: 75%;
   height: 25%;
-  
 }
 
 /* ------------------------------------------------------ */
