@@ -86,6 +86,23 @@ const About = () => {
                     <li>Build DeFi Savings App</li>
                     <li>Code your own NFT</li>
                 </li>
+        
+            Programming Languages & Frameworks
+                <li> JavaScript </li>
+                <li> C++ & C </li>
+                <li> Python </li>
+                <li> HTML5 & CSS </li>
+                <li> Solidity </li>
+                <li> Node.js </li>
+                <li> Hardhat </li>
+                <li> Truffle </li>
+                <li> Reach </li>
+                <li> Linux </li>
+                <li> Yarn, NPM </li>
+                <li> React </li>
+                <li> Remix.Ethereum </li>
+                <li> ABI, APIs </li>
+                <li> Subgraphs </li>
             
             </p>
         </section>
