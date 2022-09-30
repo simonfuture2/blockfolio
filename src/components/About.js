@@ -6,23 +6,23 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-              Continuing to challenge myself and work on open-sourced projects to stay current with any updates such as Helium, 
-              Handshake, Celo, Algorand, Solana, and in blockchain ecosystems, the responsibility to level up is dependent 
-              on your willingness to learn. Technology is a part of who I am, so attending conferences like the 2021 Open Source 
-              Hardware Summit, Handycon, and Consensus sponsored by Coindesk, along with attending weekly ETH Dev calls, 
-              Crypto Mining PoW (proof of work), and anything blockchain-related, is just Fun for me. This is not my hobby, 
-              his is just what I do, so if you're looking for a well-rounded Blockchain, Crypto,  Web3 Development Specialist. 
-              In my free time, I teach my kids how to play the piano, and use the raspberry pi4 to teach them Linux. 
-              I enjoy listening to Black Violin, Classical HipHop music really activates my creativity and leadership motivation. 
-              All of this go doesn’t happen without some downtime, that’s where I will enjoy the gym, dancing, meditation, 
-              and improving my chi. Being able to shut down and focus on Qigong Movements is like restarting your PC for 
-              new updates to be pushed and installed.
-              
+                Welcome to my blockfolio, my name is Simon Batrony a backend solidity smart contract developer. My hands-on experience was gained through
+        community mentorship, blockchain tutorials, Peer development projects, hackathons, and webinars. I am always looking for more opportunities to learn
+        more and add new skills to my toolbelt, allowing me to grow into a well-versed blockchain specialist. It is my goal to become a reputable leader in the web3
+        space to help guide the individuals who will come after me. I want to be a role model to the community and show others that look like me, a comfortable and safe
+        place to learn, grow and earn. My aspirations goes beyond a paycheck and career, however, it is necessary to obtain capital to build out the educational resource for 
+        new developers and people transitioning from web2 to web3. I find enjoyment in analyzing data and report a strategic solution for testing. I am the best when working
+        on a team focused on a goal with real world application use-case. I am at my best leading a group of intelligent minds, and bringing out the highest level of 
+        performance from each person. Understanding a persons mind is not easy nor is it predictable, however, through experience and intuition, my God-given ability to 
+        connect with any tpe of personality allows me to become a valuable asset for customer and empployeee engagement and success. Thank you for your time, and please do not
+        hesitate to reach out to learn more about me. 
+            <h3>Reach me by email by clicking the button above: Get in Touch!</h3>
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=137541&token=3776278377&h=5042" height="600" width="800" frameborder="0"></iframe>
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=227952&token=3170511174&type=FP&h=7607" height="600" width="800" frameborder="0"></iframe>
             </p>
 
             <p>
+        
             Blockchain Developer Bootcamp
                 <li>
                 Capstone Exchange Project
@@ -40,7 +40,7 @@ const About = () => {
                 <li>Intro to Cryptocurrency Exchanges</li>
                 <li>Intro to React.js</li>
                 
-             
+             <n>...</n>
 
             Blockchain Mastery University
                     <li>Implement Ethereum Main Net Token Auth.</li>
