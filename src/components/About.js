@@ -7,7 +7,7 @@ const About = () => {
             <h2>About Me</h2>
             <p>
         
-        Welcome to my blockfolio, my name is Simon Batrony a backend solidity smart contract developer. My hands-on experience was gained through
+        Welcome to my blockfolio, my name is Simon Batrony the CEO & Founder of PSB Advanced Technology, established in 2010. Our core. My hands-on experience was gained through
 
 
        community mentorship, blockchain tutorials, Peer development projects, hackathons, and webinars. I am always looking for more opportunities to learn
@@ -19,25 +19,20 @@ const About = () => {
        space to help guide the individuals who will come after me. I want to be a role model to the community and show others that look like me, a comfortable and safe
 
 
-       place to learn, grow and earn. My aspirations goes beyond a paycheck and career, however, it is necessary to obtain capital to build out the educational resource for
+       place to learn, grow and earn. The knowledge, skills, and abilities obtained throughout my life are focused on enhancing my future self. Through construction, 
+       property management, electrical, community service, and fatherhood, my life has taught me the lessons that most people are afraid to try. My setbacks were all lessons 
+       that taught me a new skill that made me into the asset I am today. My set of unique abilities makes me a formidable opponent to a competitor and a secret weapon to my team. 
+       I have the mindset to lead program management and drive progress against a priority strategic plan, by using collaborative communication methods to bring out the best in each team member. 
+       I understand the importance of leading a strategic initiative from upper management and communicating well with leadership on various levels. My analytical ability allows for 
+       developing reporting insights from market signals, client experiences, interactions, technical advancements, and captured data. I am proficient at explaining difficult topics 
+       and high-level knowledge in ways to make it more approachable for all levels. Along with my mental skillsets, I focus on my physical and spiritual stability by continuing to educate 
+       myself and networking with other mentors and industry leaders. In the new information age, the question is now, How quickly can you adapt? How well can you handle challenges? I know 
+       that I can excel in many areas and organizations, however, I am not a commodity for hire, I understand my value and completely understand how to utilize my skillsets to increase 
+       productivity and client engagement to lead to revenue generation. I enjoy Sales and Challenging Projects to test out my abilities. I enjoy working with a team that respects each other's hard work 
+       and is willing to provide the capital for high-level performance.
 
 
-       new developers and people transitioning from web2 to web3. I find enjoyment in analyzing data and report a strategic solution for testing. I am the best when working
-
-
-       on a team focused on a goal with real world application use-case. I am at my best leading a group of intelligent minds, and bringing out the highest level of
-
-
-       performance from each person. Understanding a person's mind is not easy nor is it predictable, however, through experience and intuition, my God-given ability to
-
-
-       Connecting with any tpe of personality allows me to become a valuable asset for customer and employee engagement and success. Thank you for your time, and please do not
-
-
-       hesitate to reach out to learn more about me.
-
-
-            <h3>Reach me by email by clicking the button above: Get in Touch!</h3>
+            <h3>Reach me by email by clicking the button: Get in Touch!</h3>
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=137541&token=3776278377&h=5042" height="600" width="800" frameborder="0"></iframe>
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=227952&token=3170511174&type=FP&h=7607" height="600" width="800" frameborder="0"></iframe>
             </p>
@@ -61,7 +56,7 @@ const About = () => {
                 <li>Intro to Cryptocurrency Exchanges</li>
                 <li>Intro to React.js</li>
                 
-             <n>...</n>
+            
 
             Blockchain Mastery University
                     <li>Implement Ethereum Main Net Token Auth.</li>
