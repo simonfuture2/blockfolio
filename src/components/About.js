@@ -5,8 +5,7 @@ const About = () => {
     return (
         <section className='about'>
             <h2>About Me</h2>
-            <p>
-        
+        <p>
         Welcome to my blockfolio, my name is Simon Batrony the CEO & Founder of PSB Advanced Technology, established in 2010. Our core. My hands-on experience was gained through
 
 
@@ -36,6 +35,13 @@ const About = () => {
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=137541&token=3776278377&h=5042" height="600" width="800" frameborder="0"></iframe>
               <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=227952&token=3170511174&type=FP&h=7607" height="600" width="800" frameborder="0"></iframe>
             </p>
+             <form action="https://bitpay.com/checkout" method="post">
+                <input type="hidden" name="action" value="checkout" />
+                <input type="hidden" name="posData" value="" />
+                <input type="hidden" name="notificationType" value="json" />
+                <input type="hidden" name="data" value="Ji3JDLqP1C6jAWZ8POdk3Nz5bagHqBGQWl396eG+cpLXGcsg+9+gfvek+FdB2lL6ndBIAiZGihSqxIXxNP80mlfsHY/X6/ZUUVz+fchwRc5skMe/39fHdyMHFhW61WuymfPECFPrUZS8Fi9VOuksQA==" />
+                <input type="image" src="https://bitpay.com/cdn/en_US/bp-btn-pay-currencies.svg" name="submit" style="width: 210px" alt="BitPay, the easy way to pay with bitcoins."/>
+            </form> 
 
             <p>
         
