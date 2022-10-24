@@ -26,7 +26,7 @@ const About = () => {
        developing reporting insights from market signals, client experiences, interactions, technical advancements, and captured data. I am proficient at explaining difficult topics 
        and high-level knowledge in ways to make it more approachable for all levels. Along with my mental skillsets, I focus on my physical and spiritual stability by continuing to educate 
        myself and networking with other mentors and industry leaders. In the new information age, the question is now, How quickly can you adapt? How well can you handle challenges? I know 
-       that I can excel in many areas and organizations, however, I am not a commodity for hire, I understand my value and completely understand how to utilize my skillsets to increase 
+       that I can excel in many areas and organizations, however, I understand my value and completely understand how to utilize my skillsets to increase 
        productivity and client engagement to lead to revenue generation. I enjoy Sales and Challenging Projects to test out my abilities. I enjoy working with a team that respects each other's hard work 
        and is willing to provide the capital for high-level performance.
      
