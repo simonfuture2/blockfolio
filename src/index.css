@@ -105,8 +105,9 @@ code {
 .about p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 75ch;
+  max-width: 95ch;
   color: white;
+  padding: 50px;
 }
 
 /* ------------------------------------------------------ */
