@@ -30,19 +30,6 @@ const About = () => {
        productivity and client engagement to lead to revenue generation. I enjoy Sales and Challenging Projects to test out my abilities. I enjoy working with a team that respects each other's hard work 
        and is willing to provide the capital for high-level performance.
 
-
-            <h3>Reach me by email by clicking the button: Get in Touch!</h3>
-              <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=137541&token=3776278377&h=5042" height="600" width="800" frameborder="0"></iframe>
-              <iframe allowfullscreen="allowfullscreen" src="https://designrr.page?id=227952&token=3170511174&type=FP&h=7607" height="600" width="800" frameborder="0"></iframe>
-            </p>
-             <form action="https://bitpay.com/checkout" method="post">
-                <input type="hidden" name="action" value="checkout" />
-                <input type="hidden" name="posData" value="" />
-                <input type="hidden" name="notificationType" value="json" />
-                <input type="hidden" name="data" value="Ji3JDLqP1C6jAWZ8POdk3Nz5bagHqBGQWl396eG+cpLXGcsg+9+gfvek+FdB2lL6ndBIAiZGihSqxIXxNP80mlfsHY/X6/ZUUVz+fchwRc5skMe/39fHdyMHFhW61WuymfPECFPrUZS8Fi9VOuksQA==" />
-                <input type="image" src="https://bitpay.com/cdn/en_US/bp-btn-pay-currencies.svg" name="submit" style="width: 210px" alt="BitPay, the easy way to pay with bitcoins."/>
-            </form> 
-
             <p>
         
             Blockchain Developer Bootcamp
