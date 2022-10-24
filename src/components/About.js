@@ -29,6 +29,7 @@ const About = () => {
        that I can excel in many areas and organizations, however, I am not a commodity for hire, I understand my value and completely understand how to utilize my skillsets to increase 
        productivity and client engagement to lead to revenue generation. I enjoy Sales and Challenging Projects to test out my abilities. I enjoy working with a team that respects each other's hard work 
        and is willing to provide the capital for high-level performance.
+        </p>
 
             <p>
         
