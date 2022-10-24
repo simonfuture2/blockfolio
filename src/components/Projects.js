@@ -14,18 +14,6 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>FutureSELF DAO</h3>
-                    <img src={uniswap} alt="Uniswap Swap Page" />
-                    <p>Enter the FutureSELF DAO on the Solana blockchain. Search for FutureSELF and enter DAO to see
-                    the current proposal test available to vote on. Added 1,000,000 tokens for voting rights and 450 tokens
-                    for the FutureSELF Council Votes. 
-                    </p>
-
-                    <a href="https://dao.mango.markets/realms" target="_blank" className="button">Site</a>
-                    <a href="https://dao.mango.markets/dao/DVhMaVgakjuGPZgXihDpFn2iA2Bymd82gfxbA2Zr6TVU" target="_blank" className="button">Code</a>
-                </div>
-
-                <div className="projects__card">
                     <h3>ROYALz</h3>
                     <img src={aave} alt="ROYALz NFT Page" />
                     <p>FutureROYALz is a NFT project worked on to represent the knowledge gained from metaplex. the NFT marketplace futureplex.store was used
